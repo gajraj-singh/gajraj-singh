@@ -1,4 +1,4 @@
-👋 H I’m Gajraj
+👋  I’m Gajraj
 
 💻 Passionate about crafting clean, efficient, and user-friendly software
 
