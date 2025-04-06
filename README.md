@@ -1,4 +1,5 @@
-👋 Hey there, I’m Gajraj
+👋 H I’m Gajraj
+
 💻 Passionate about crafting clean, efficient, and user-friendly software
 
 🔍 Currently diving deep into React.js & Python frameworks like Django and Flask
